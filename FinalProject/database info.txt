@@ -1,0 +1,2 @@
+Data base connectivity is implemented using JPA and EclipseLink
+SQLite is used as the database
